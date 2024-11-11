@@ -20,7 +20,7 @@ public class DialogueControl : MonoBehaviour
         dialogueObj.SetActive(true);
         profile.sprite = p;
         speechText.text = txt;  
-        actorNameText.text = actorName;
+        actorNameText.text = actorName;     
     }
 
 }
